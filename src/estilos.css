@@ -1,0 +1,37 @@
+/* Estilos cuerpo de la página. */
+body {
+  margin: 0;
+}
+
+/* Estilos encabezado de la página.  */
+header {
+  height: 100px;
+}
+
+/* Estilos del menú. */
+.menu {
+  background-color: #beddfa;
+  position: fixed;
+  height: 100px;
+  top: 0;
+  width: 100%;
+}
+
+/* Estilos botón registrarse del menú. */
+.menu-boton-registro {
+  position: fixed;
+  top: 40px;
+  right: 10px;
+}
+
+/* Estilos para los títulos. */
+.titulos {
+  display: block;
+  top: 200px;
+  text-align: center;
+}
+
+/* Estilos para los textos. */
+.textos {
+  text-align: center;
+}
