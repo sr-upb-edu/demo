@@ -8,6 +8,36 @@ header {
   height: 100px;
 }
 
+/* Estilos contenedor de los datos del formulario de registro. */
+.contenedor-datos-formulario {
+  margin-bottom: 5px;
+}
+
+/* Estilos contenedor de botones del formulario de registro. */
+.contenedor-botones-formulario {
+  margin-top: 10px;
+}
+
+/* Estilos formulario de registro. */
+.formulario {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  width: 285px;
+}
+
+/* Estilos labels del formulario de registro. */
+.label {
+  display: inline-block;
+  width: 100px;
+}
+
+/* Estilos logo del producto. */
+.landing_logo {
+  position: fixed;
+  left: 10px;
+}
+
 /* Estilos del menú. */
 .menu {
   background-color: #beddfa;
